@@ -28,15 +28,17 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions, c
 - **Tech Stack**: Next.js, Tailwind CSS, and Vercel.
 - **Highlights**: Fully responsive and optimized for performance.
 
-### 🌍 [Blog Platform](https://github.com/Abhi22shek/blog-platform)
-- **Description**: A blogging platform that allows users to create, edit, and share posts.
-- **Tech Stack**: React, Express, MongoDB, and Node.js.
-- **Highlights**: Features authentication and a rich text editor.
+## 🌍 [Realtime Web Chat Application](https://github.com/Abhi22shek/fullStack_Chat-App.git)
+- Built a full-stack chat app with live messaging, JWT authentication, and file sharing.
+- Used Socket.io for real-time messaging and online user status display.
+- Added user profile management, customizable themes, and responsive layout.
+- Integrated Cloudinary for secure media uploads and optimized delivery.
 
-### 🚀 [E-Commerce App](https://github.com/Abhi22shek/e-commerce-app)
-- **Description**: An e-commerce application with product listings, a shopping cart, and payment integration.
-- **Tech Stack**: Next.js, PostgreSQL, and Tailwind CSS.
-- **Highlights**: Supports secure payments and real-time inventory updates.
+## 🚀 [Imagify – Text to Photo Generator](https://github.com/Abhi22shek/Imagify.git)
+- Description: A fully authenticated and responsive AI SaaS application that generates images from text prompts using credits.
+- Tech Stack: React.js, Node.js, MongoDB, Tailwind CSS, Razorpay API
+- Highlights: Integrated Razorpay for credit-based payments, user dashboard for credit and history tracking, and optimized performance with 20% boost in engagement.
+
 
 ---
 
