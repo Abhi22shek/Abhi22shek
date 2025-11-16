@@ -55,9 +55,4 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions, c
 
 ---
 
-## 📫 Connect With Me
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedIn)
-- **Portfolio**: [[Your Portfolio](https://yourportfolio.com](https://portfolio-abhi22sheks-projects.vercel.app/))
-
 Thanks for stopping by! 😊
